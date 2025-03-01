@@ -12,5 +12,4 @@ public class 手机号屏蔽 {
 		String result = left + "****" + right;
 		System.out.println(result);
 	}
-
 }

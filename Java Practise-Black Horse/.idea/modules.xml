@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm Design and Analysis/Algorithm Design and Analysis.iml" filepath="$PROJECT_DIR$/Algorithm Design and Analysis/Algorithm Design and Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface Application/Interface Application.iml" filepath="$PROJECT_DIR$/Interface Application/Interface Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Internal Class/Internal Class.iml" filepath="$PROJECT_DIR$/Internal Class/Internal Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Practise-Black Horse.iml" filepath="$PROJECT_DIR$/Java Practise-Black Horse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
@@ -15,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/day09/day09.iml" filepath="$PROJECT_DIR$/day09/day09.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10/day10.iml" filepath="$PROJECT_DIR$/day10/day10.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11/day11.iml" filepath="$PROJECT_DIR$/day11/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/加密算法/加密算法.iml" filepath="$PROJECT_DIR$/加密算法/加密算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/抽象类的应用/抽象类的应用.iml" filepath="$PROJECT_DIR$/抽象类的应用/抽象类的应用.iml" />
     </modules>
   </component>
 </project>
